@@ -34,7 +34,6 @@ struct fs_mgr_flag_values {
     unsigned int zram_size;
     unsigned int zram_streams;
     unsigned int file_encryption_mode;
-    unsigned int zram_streams;
 };
 
 struct flag_list {
